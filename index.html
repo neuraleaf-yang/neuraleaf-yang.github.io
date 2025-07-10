@@ -164,21 +164,29 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <img 
-        id="teaser"
-        src="./static/images/teaser_v1.png"
-        alt="Teaser"
-        style="width:100%;height:100%; object-fit:cover;"
-      </>
+      <!-- use Bulma columns -->
+      <div class="columns is-vcentered">
+        <div class="column is-half">
+          <figure class="image">
+            <img src="./static/images/teaser_v1.png" alt="Left Figure"
+              style="width:100%; height:auto; object-fit:cover;" />
+          </figure>
+        </div>
+        <div class="column is-half">
+          <figure class="image">
+            <img src="./static/images/denseleaf_teaser.pdf" alt="Right Figure"
+              style="width:100%; height:auto; object-fit:cover;" />
+          </figure>
+        </div>
+      </div>
+
       <h2 class="subtitle has-text-centered">
         <span class="dnerf">Nerfies</span> turns selfie videos from your phone into
-        free-viewpoint
-        portraits.
+        free-viewpoint portraits.
       </h2>
     </div>
   </div>
 </section>
-
 
 <section class="hero is-light is-small">
   <div class="hero-body">
