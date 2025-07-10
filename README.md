@@ -1,6 +1,6 @@
 # NeuraLeaf
 
-This is the repository that contains source code for the [NeuraLeaf website](https://Yrainy0615.github.io/NeuraLeaf.github.io/).
+This is the repository that contains source code for the [NeuraLeaf website](https://neuraleaf-yang.github.io/).
 
 If you find NeuraLeaf useful for your work please cite:
 ```
