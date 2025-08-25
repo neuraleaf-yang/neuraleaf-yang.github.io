@@ -63,8 +63,9 @@ body {
 
 .publication-awards {
     color: #ff3860;
-    width: fit-content;
     font-weight: bolder;
+/*     width: fit-content;
+    font-weight: bolder; */
 }
 
 .publication-authors {
