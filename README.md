@@ -4,11 +4,11 @@ This is the repository that contains source code for the [NeuraLeaf website](htt
 
 If you find NeuraLeaf useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {202},
+@article{yang2025neuraleaf,
+  title={NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement},
+  author={Yang, Yang and Mao, Dongni and Santo, Hiroaki and Matsushita, Yasuyuki and Okura, Fumio},
+  journal={arXiv preprint arXiv:2507.12714},
+  year={2025}
 }
 ```
 
